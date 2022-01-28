@@ -1,9 +1,5 @@
 import 'dart:io';
 
-void main() {
-  print(regNumb());
-}
-
 regNumb() {
   print('Enter your Jamb Registration number: ');
   //Enter first seven letter strings
